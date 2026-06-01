@@ -1,1 +1,3 @@
-# database.json
+{
+  "database": ["6288245348684"]
+{
